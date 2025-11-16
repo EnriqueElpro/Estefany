@@ -30,7 +30,7 @@ body {
     line-height: 1.5rem;
     box-sizing: border-box;
     text-align: center;
-    font-family: 'times roman';
+    font-family: 'times roman', cursive;
     font-size: 5px;
     background: #eae2b7;
     width: 360px;
@@ -51,7 +51,7 @@ body {
 
 .mensaje p{
     position: relative;
-    top: -5px;
+    top: -10px;
     font-size: 1.2rem;
 }
 
@@ -132,7 +132,7 @@ body {
     .mensaje:before {
         content: "";
         border-style: dotted;
-        position: relative;
+        position: absolute;
         top: 12px;
         left: 12px; 
         right: 12px; 
