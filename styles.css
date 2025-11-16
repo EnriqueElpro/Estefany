@@ -34,7 +34,7 @@ body {
     font-size: 22px;
     background: #eae2b7;
     width: 360px;
-    height: 100px;
+    height: 300px;
     z-index: -1;
     transition: transform 0.75s ease-in-out;
 }
