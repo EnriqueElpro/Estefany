@@ -51,7 +51,7 @@ body {
 
 .mensaje p{
     position: relative;
-    top: -10px;
+    top: -5px;
     font-size: 1.2rem;
 }
 
@@ -132,7 +132,7 @@ body {
     .mensaje:before {
         content: "";
         border-style: dotted;
-        position: absolute;
+        position: relative;
         top: 12px;
         left: 12px; 
         right: 12px; 
