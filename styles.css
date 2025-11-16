@@ -141,7 +141,7 @@ body {
     
     .mensaje p{
         position: relative;
-        top: -15px;
+        top: -10px;
         font-size: 1rem;
     }
 }
